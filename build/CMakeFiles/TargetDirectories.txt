@@ -1,5 +1,0 @@
-/home/john/Code/HuskyRobotics/base-streamer/build/CMakeFiles/rebuild_cache.dir
-/home/john/Code/HuskyRobotics/base-streamer/build/CMakeFiles/edit_cache.dir
-/home/john/Code/HuskyRobotics/base-streamer/build/CMakeFiles/camera_client.dir
-/home/john/Code/HuskyRobotics/base-streamer/build/CMakeFiles/server_async.dir
-/home/john/Code/HuskyRobotics/base-streamer/build/CMakeFiles/base64.dir
