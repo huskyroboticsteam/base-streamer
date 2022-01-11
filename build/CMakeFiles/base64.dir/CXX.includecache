@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/john/Code/HuskyRobotics/base-streamer/inc/cpp-base64/base64.cpp
+base64.h
+/home/john/Code/HuskyRobotics/base-streamer/inc/cpp-base64/base64.h
+algorithm
+-
+stdexcept
+-
+
+/home/john/Code/HuskyRobotics/base-streamer/inc/cpp-base64/base64.h
+string
+-
+string_view
+-
+
